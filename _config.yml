@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "高倩"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "高倩，女，同济大学交通运输工程学院 "
 repository               : "gaoqian10291/gaoqian10291.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "高倩"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "同济大学"
   location         : "上海，中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JeshU8YAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=JeshU8YAAAAJ&hl=en"
   email            : "gaoqian_jk@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  #researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
