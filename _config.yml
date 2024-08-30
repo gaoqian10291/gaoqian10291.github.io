@@ -23,13 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "高倩"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "同济大学"
-  bio              : "STEP课题组https://steps.tongji.edu.cn/"
+  bio              : "同济大学STEP课题组https://steps.tongji.edu.cn"
   location         : "上海，嘉定区"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JeshU8YAAAAJ&hl=en"
-  email            : "gaoqian_jk@163.com "
+  email            : {{"gaoqian_jk@163.com"}}
   #researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
