@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "高倩"
-description              : "交通运输工程学院 "
+description              : "同济大学STEP课题组https://steps.tongji.edu.cn"
 repository               : "gaoqian10291/gaoqian10291.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,6 @@ author:
   name             : "高倩"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "gaoqian_jk@163.com"
-  bio              : "同济大学STEP课题组https://steps.tongji.edu.cn"
   location         : "上海，嘉定区"
   employer         :
   pubmed           : 
