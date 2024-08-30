@@ -17,10 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="text-align: justify;">
-This is some text that will be justified, meaning it will be aligned evenly along the left and right margins. Justification is often used in newspapers and magazines to create a clean look.
-</div>
-
 
 高倩，1997年10月生，湖北人。2015.9-2019.6于武汉理工大学交通学院就读交通工程专业，排名1/65，2019年9月通过保送研究生至同济大学交通运输工程学院综合交通信息与控制工程系，直接攻读博士研究生，并于2023年10月受国家留学基金委资助前往加拿大多伦多大学联培。
 
