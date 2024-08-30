@@ -24,7 +24,7 @@ redirect_from:
 
 作为学生负责人先后参与国家重点专项、面上项目、上海市科委研究等纵向项目，负责项目从申报、推进到结题全流程的材料撰写、对接汇报等工作，拥有丰富的项目组织与管理经验。在科学研究的同时，同样注重科研成果的落地应用，参与研发设备获得2019年上海工博会创新引领奖（大会仅10项），并已先后在全国10余省市超20万公里道路上推广使用，社会经济效益明显；参与研发的路面多维高频检测与智能养护技术获得中国交通运输协会科技进步一等奖、上海市公路学会科学技术二等奖。此外斩获众多创新大赛奖项，获中国国际“互联网+”大学生创新创业大赛全国银奖、高等院校发明选拔赛金奖、数字城市大赛雄安站智慧城市专题赛一等奖、中国研究生智慧城市技术与创意设计大赛二等奖等国家级奖项4项，省部级奖项2项。
 
-**研究方向**：道路基础设施数字化，路面服役状态智能感知与评价，数据驱动的精细化设施管养等
+**研究方向：道路基础设施数字化，路面服役状态智能感知与评价，数据驱动的精细化设施管养等**
 
 
 # 📖 教育经历
@@ -33,19 +33,44 @@ redirect_from:
 - *2015.09 - 2019.06*，武汉理工大学，交通工程，学士. 
 
 
+# 💻 项目经历
+1. **道路基础设施性能高频多维数字化感知技术研发（国家自然科学基金面上项目）**       2019.09-至今
+- **职责**：**项目骨干**，基于目标检测、雷达信号处理、关联分析等技术，负责研发路面病害、路内空洞的智能识别算法，实现道路状况的快速检测与评估；同时参与到该技术在港珠澳大桥、雄安新区、大兴机场高速、杭州亚运会赛道等地的试点应用，与行业上下游企业对接，负责检测装备的应用测试、效果后评估，以及项目从申报到结题的全流程材料汇报、对接推进等工作。
+- **成果**：发表SCI论文7篇（3篇1作），撰写专著《道路设施性能高频多维感知与数字化管理技术》，获中国交通运输协会科技进步一等奖、中国国际“互联网+”大学生创新创业大赛全国银奖、数字城市大赛雄安站智慧城市专题赛一等奖、高等院校发明选拔赛金奖等。
+2. **基于细时空粒度数据的路面性能时空追溯分析及养护决策研究（博士论文）**       2022.10-至今
+- **职责**：**项目负责人**，基于细时空粒度高频巡检数据，提出了“GPS-方位角-环境特征”的三级时空匹配框架，实现路面病害的时空连续追溯，建立广域、高频、多维的路网性能时空连续数据集，投递Nature子刊Scientific Data；进一步在时序上构建路面损伤级性能推演模型，解析路面性能在多致因影响下的非线性时滞演化特性；在空间上利用地理探测器挖掘路面性能空间分布的异质性，分析自然因素和人为因素对路面性能分布的解释力，以支持养护资源的合理分配和数据驱动的养护决策制定，为道路养护决策提供理论储备与技术支撑。
+- **成果**：发表SCI论文5篇（2篇1作），Nature子刊Scientific Data在投，授权国家发明专利2项，申请PCT国际专利2项。
+3. **上海市徐汇区市政管养数字化转型升级（产学研合作项目）**       2020.11-至今
+- **职责**：**项目负责人**，**（1）装备应用**：将产学研合作研发的轻量化智能巡检设备、探地雷达等装备在全区270余公里道路上进行试点应用，负责装备的调试及使用，牵头装备测试通过国家计量站校准Ⅰ级标准认证；**（2）数据分析**：基于MySQL、Python等技术对采集数据进行处理，融合多维检测分析道路状况，联合解释病害诱因，负责出具每周巡检结果与后评估报告，为大中修方案和科学管养决策制定提供支持；**（3）项目管理**：同徐汇市政中心各部门、合作企业对接，负责项目推进、对接、软课题申请等事宜，结合技术与业务需求，厘定技术发展与业务拓展的方向，推动创新的同时确保落地可行性。
+- **成果**：牵头编制《2022年上海市道路行驶质量报告》，获上海市公路学会科学技术二等奖，博士论文的数据来源。
+4. **港珠澳大桥智能化运维技术集成应用（国家重点研发计划项目）**       2019.12-2022.11
+- **职责**：**项目骨干**，**（1）装备研发**：负责分析车载信息感知装备和显示终端的需求、功能定位、系统架构，进行试制方案的比选和实地测试，支撑融合5G+北斗的车载智慧终端研发，赋能港珠澳大桥营运车辆（穿梭巴士）与桥隧运维；**（2）国标撰写**：面向港珠澳大桥桥岛隧公路的全生命周期智能运维工作，负责撰写了公路基础设施智能巡查技术规范和长封闭隧道内定位服务标准的初稿。
+- **成果**：国家标准《跨海集群设施公路数字化智能巡查技术规范》，《跨海集群设施公路数字化基于北斗的长封闭隧道内定位服务》。
+5. **金鼎天地超大地下空间交通组织规划项目（横向项目）**       2020.07-2022.01
+- **职责**：**子课题负责人**，**（1）标准研究**：带领3名硕士开展上海市金鼎天地九宫格超大停车场库设计与智能化标准研究，从建造标准、信息发布、智能化规范、交通组织、管理决策等方面规范超大型停车场的建设、管理、运营和智慧化全流程；**（2）可行性研究**：面向园区“最后一公里”自动驾驶的场景需求，设计满足自动驾驶功能的超大型地下车库通道的专用道及附属设施，分析金鼎超导社区自动驾驶落地应用可行性，服务园区地下场景的自动驾驶落地。
+- **成果**：牵头编制《金鼎天地停车场库设计建造及其智能化标准》、《金鼎超导社区自动驾驶多维落地应用可行性研究》，支撑了后续项目的持续展开。
+6. **山东高速公路智慧服务区综合技术研究**       2020.03-2022.06
+- **职责**：**项目负责人**，**（1）感知方案设计**：基于AI视频、毫米波雷达、5G通讯等技术，设计智慧服务区的人-车-路全息感知方案，利用感知数据对服务区进行全面的信息化改造，实现车辆识别、加油排队预估、停车诱导、安全保障、智能管控等服务；**（2）团标撰写**：以高速公路运营养护管理相关的业务需求为牵引，负责梳理现有相关标准，分析养护管理系统的总体框架、各层级功能、业务定位，撰写团体标准以指导推进智能养护和市场化养护管理。
+- **成果**：团体标准《智慧高速公路养护管理系统技术规范》。
+7. **临港“空天地海”立体透视交通系统综合感知系统**       2022.10-2023.01
+- **职责**：**项目骨干**，负责方案设计，通过集成“空”-无人机智能巡查、“天”-卫星遥感探测、“地”-地面感知装备、“海”-海洋观测站等多种感知手段，实现多时空尺度的交通系统运行态势判别，制定多感知手段的联动发现机制、分层巡视制度和弹性调度策略，形成“空天地海”立体多维感知网络。
+- **成果**：方案《“空天地海”城市立体交通系统综合感知系统》。
+
+
 # 📝 论文发表 
-1. 高倩, 杜豫川, 刘成龙, 李亦舜, 吴荻非, 李峰. [城市路面性能分布空间异质性解析及差异化养护分区研究](https://kns.cnki.net/kcms2/article/abstract?v=8pq0kR8SZyUqt9TxV4gegfdfKVntxh-s7RwYiYMg_7TzQ4rEWKriG8VEAq9HULjj2eYMqgGuv8mdzs_QvL7zsrWh8QiEn3l8Hf_rY9yhwo4nAhStnB5hjdDTdNEm3thJEbnEY_MTT2AnysrKVAdNUz65mPuDGJ7bzSv9A-GvFimHUItD_Nsa3IZ4JZNxwT9ZxCY_NfNk3h7so-982Zz9rxt-Js2JsHzoJcglp-ssVqsLzYoPnDg9HKpLxiH4ERIiEdGRBSqUJL5-PH1f1Y7eiJadl5gigpSIc4DNYP7BzNXvjxlcNmJkKiUpf1iKhMjxeSCOCEVlLUbdpbuJuZryhA==&uniplatform=NZKPT&language=CHS)[J]. 中国公路学报, 2024. **公路领域中文期刊TOP1**
-2. Qian Gao, Chenglong Liu, Yishun Li, Yuchuan Du, Guanghua Yue, and Bing Liu. ["Mining co-occurrence patterns among deep road distresses using association rule analysis."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) Journal of Transportation Engineering, Part B: Pavements 148, no. 1 (2022): 04021078.  **SCI, IF: 2.1, Q3**
-3. Qian Gao, Lei Fan, Siyu Wei, Yishun Li, Yuchuan Du, and Chenglong Liu. ["Differences evaluation of pavement roughness distribution based on light detection and ranging data."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) Applied Sciences 13, no. 14 (2023): 8080.  **SCI, IF: 2.7, Q1**
-4. Qian Gao, Xinhua Yu , Yuchuan Du, Chenglong Liu, Difei Wu, Yishun Li, Xiaoming Zhang. "Digital operation and maintenance system of highway infrastructure." 29th ITS World Congress. (2023)  **公路交通领域顶级国际会议**
-5. Qian Gao, Shuyang Zhang, Guojun Chen, and Yuchuan Du. ["Two-way cooperative priority control of bus transit with stop capacity constraint."](https://www.mdpi.com/2071-1050/12/4/1405) Sustainability 12, no. 4 (2020): 1405.  **SCI, IF: 3.6, Q2**
-6. Yishun Li, Chenglong Liu, Qian Gao, Difei Wu, Feng Li, and Yuchuan Du. ["ConTrack Distress Dataset: A Continuous Observation for Pavement Deterioration Spatio-Temporal Analysis."](https://ieeexplore.ieee.org/document/9899382) IEEE Transactions on Intelligent Transportation Systems 23, no. 12 (2022): 25004-25017.  **SCI, IF: 8.3, Q1**
-7. Yishun Li, Chenglong Liu, Guanghua Yue, Qian Gao, and Yuchuan Du. ["Deep learning-based pavement subsurface distress detection via ground penetrating radar data."](https://www.sciencedirect.com/science/article/pii/S0926580522003892) Automation in Construction 142 (2022): 104516.  **SCI, IF: 10.6, Q1**
-8. Guanghua Yue, Yuchuan Du, Chenglong Liu, Shili Guo, Yishun Li, and Qian Gao. ["Road subsurface distress recognition method using multiattribute feature fusion with ground penetrating radar."](https://www.tandfonline.com/doi/abs/10.1080/10298436.2022.2037591) International Journal of Pavement Engineering 24, no. 2 (2023): 2037591.  **SCI, IF: 3.8, Q2**
-9. Guanghua Yue, Chenglong Liu, Yishun Li, Yuchuan Du, and Qian Gao. ["Automatic Detection of Road Subsurface Distress via Curriculum Learning: Learn Like an Expert."](https://journals.sagepub.com/doi/abs/10.1177/03611981241248164) Transportation Research Record (2024): 03611981241248164.  **SCI, IF: 1.9, Q3**
-10. Wenyuan Cai, Chenglong Liu, Qian Gao, Yishun Li, Yuchuan Du. "Scene-adaptive pavement maintenance optimization model: a reinforcement learning approach from expert feedback. 103nd TRB Annual Meeting. (2024).  **公路交通领域顶级国际会议**
-11. Haobing Liu, Shuyang Zhang, Guojun Chen, and Qian Gao. ["Observed Characteristics and Modeled Emissions of Transit Buses on Ramps."](https://journals.sagepub.com/doi/abs/10.1177/03611981241248164) Sustainability 12, no. 7 (2020): 2770.  **SCI, IF: 3.6, Q2**
-12. Yuchuan Du, Han Wang, Qian Gao, Ning Pan, Cong Zhao, and Chenglong Liu. ["Resilience concepts in integrated urban transport: a comprehensive review on multi-mode framework."](https://www.emerald.com/insight/content/doi/10.1108/SRT-06-2022-0013/full/html) Smart and resilient transportation 4, no. 2 (2022): 105-133.
+1. **高倩**, 杜豫川, 刘成龙, 李亦舜, 吴荻非, 李峰. [城市路面性能分布空间异质性解析及差异化养护分区研究](https://kns.cnki.net/kcms2/article/abstract?v=8pq0kR8SZyUqt9TxV4gegfdfKVntxh-s7RwYiYMg_7TzQ4rEWKriG8VEAq9HULjj2eYMqgGuv8mdzs_QvL7zsrWh8QiEn3l8Hf_rY9yhwo4nAhStnB5hjdDTdNEm3thJEbnEY_MTT2AnysrKVAdNUz65mPuDGJ7bzSv9A-GvFimHUItD_Nsa3IZ4JZNxwT9ZxCY_NfNk3h7so-982Zz9rxt-Js2JsHzoJcglp-ssVqsLzYoPnDg9HKpLxiH4ERIiEdGRBSqUJL5-PH1f1Y7eiJadl5gigpSIc4DNYP7BzNXvjxlcNmJkKiUpf1iKhMjxeSCOCEVlLUbdpbuJuZryhA==&uniplatform=NZKPT&language=CHS)[J]. _中国公路学报_, 2024. **（公路领域中文期刊TOP1）**
+2. **Qian Gao**, Chenglong Liu, Yishun Li, Yuchuan Du, Guanghua Yue, and Bing Liu. ["Mining co-occurrence patterns among deep road distresses using association rule analysis."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Journal of Transportation Engineering, Part B: Pavements_ 148, no. 1 (2022): 04021078.  **SCI, IF: 2.1, Q3**
+3. Qian Gao, Lei Fan, Siyu Wei, Yishun Li, Yuchuan Du, and Chenglong Liu. ["Differences evaluation of pavement roughness distribution based on light detection and ranging data."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Applied Sciences_ 13, no. 14 (2023): 8080.  **（SCI, IF: 2.7, Q1）**
+4. **Qian Gao**, Xinhua Yu , Yuchuan Du, Chenglong Liu, Difei Wu, Yishun Li, Xiaoming Zhang. "Digital operation and maintenance system of highway infrastructure." _29th ITS World Congress_. (2023)  **（公路交通领域顶级国际会议）**
+5. **Qian Gao**, Shuyang Zhang, Guojun Chen, and Yuchuan Du. ["Two-way cooperative priority control of bus transit with stop capacity constraint."](https://www.mdpi.com/2071-1050/12/4/1405) _Sustainability_ 12, no. 4 (2020): 1405.  **（SCI, IF: 3.6, Q2）**
+6. Yishun Li, Chenglong Liu, **Qian Gao**, Difei Wu, Feng Li, and Yuchuan Du. ["ConTrack Distress Dataset: A Continuous Observation for Pavement Deterioration Spatio-Temporal Analysis."](https://ieeexplore.ieee.org/document/9899382) _IEEE Transactions on Intelligent Transportation Systems_ 23, no. 12 (2022): 25004-25017.  **（SCI, IF: 8.3, Q1）**
+7. Yishun Li, Chenglong Liu, Guanghua Yue, **Qian Gao**, and Yuchuan Du. ["Deep learning-based pavement subsurface distress detection via ground penetrating radar data."](https://www.sciencedirect.com/science/article/pii/S0926580522003892) _Automation in Construction_ 142 (2022): 104516.  **（SCI, IF: 10.6, Q1）**
+8. Guanghua Yue, Yuchuan Du, Chenglong Liu, Shili Guo, Yishun Li, and **Qian Gao**. ["Road subsurface distress recognition method using multiattribute feature fusion with ground penetrating radar."](https://www.tandfonline.com/doi/abs/10.1080/10298436.2022.2037591) _International Journal of Pavement Engineering_ 24, no. 2 (2023): 2037591.  **（SCI, IF: 3.8, Q2）**
+9. Guanghua Yue, Chenglong Liu, Yishun Li, Yuchuan Du, and **Qian Gao**. ["Automatic Detection of Road Subsurface Distress via Curriculum Learning: Learn Like an Expert."](https://journals.sagepub.com/doi/abs/10.1177/03611981241248164) _Transportation Research Record_ (2024): 03611981241248164.  **（SCI, IF: 1.9, Q3）**
+10. Wenyuan Cai, Chenglong Liu, **Qian Gao**, Yishun Li, Yuchuan Du. "Scene-adaptive pavement maintenance optimization model: a reinforcement learning approach from expert feedback. _103nd TRB Annual Meeting_. (2024).  **（公路交通领域顶级国际会议）**
+11. Haobing Liu, Shuyang Zhang, Guojun Chen, and **Qian Gao**. ["Observed Characteristics and Modeled Emissions of Transit Buses on Ramps."](https://journals.sagepub.com/doi/abs/10.1177/03611981241248164) _Sustainability_ 12, no. 7 (2020): 2770.  **（SCI, IF: 3.6, Q2）**
+12. Yuchuan Du, Han Wang, **Qian Gao**, Ning Pan, Cong Zhao, and Chenglong Liu. ["Resilience concepts in integrated urban transport: a comprehensive review on multi-mode framework."](https://www.emerald.com/insight/content/doi/10.1108/SRT-06-2022-0013/full/html) _Smart and resilient transportation_ 4, no. 2 (2022): 105-133.
+
 
 # 📝 发明专利
 ##  PCT国际专利
@@ -65,6 +90,10 @@ redirect_from:
 - 一种多无人机系统城市不规则区域交通巡查的方法. CN202410557261.7.
 - 一种探地雷达数据异常区域自动识别方法. CN202410728557.0.
 - 一种基于变化检测的城市道路探地雷达规模普查方法. CN202410728441.7.
+
+
+# 📝 出版物
+- 专著：《道路设施性能高频多维感知与数字化管理技术》. 2024.（排版中）
 
 
 # 🎖 奖项荣誉
@@ -92,7 +121,3 @@ redirect_from:
 - *2019.12* “华为杯”第十八届中国研究生数学建模竞赛**二等奖**
 - *2016.05* 第十二届全国大学生交通科技大赛校**一等奖**
 
-
-# 💻 项目经历
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- 
