@@ -33,7 +33,7 @@ redirect_from:
 - *2015.09 - 2019.06*，武汉理工大学，交通工程，学士. 
 
 
-# 💻 项目经历
+# 💻 Projects
 1. **道路基础设施性能高频多维数字化感知技术研发（国家自然科学基金面上项目）**                                                 2019.09-至今
 - **职责**：**项目骨干**，基于目标检测、雷达信号处理、关联分析等技术，负责研发路面病害、路内空洞的智能识别算法，实现道路状况的快速检测与评估；同时参与到该技术在港珠澳大桥、雄安新区、大兴机场高速、杭州亚运会赛道等地的试点应用，与行业上下游企业对接，负责检测装备的应用测试、效果后评估，以及项目从申报到结题的全流程材料汇报、对接推进等工作。
 - **成果**：发表SCI论文7篇（3篇1作），撰写专著《道路设施性能高频多维感知与数字化管理技术》，获中国交通运输协会科技进步一等奖、中国国际“互联网+”大学生创新创业大赛全国银奖、数字城市大赛雄安站智慧城市专题赛一等奖、高等院校发明选拔赛金奖等。
@@ -57,7 +57,8 @@ redirect_from:
 - **成果**：方案《“空天地海”城市立体交通系统综合感知系统》。
 
 
-# 📝 论文发表 
+# 📝 Publications  
+## 📃 Papers
 1. **高倩**, 杜豫川, 刘成龙, 李亦舜, 吴荻非, 李峰. [城市路面性能分布空间异质性解析及差异化养护分区研究](https://kns.cnki.net/kcms2/article/abstract?v=8pq0kR8SZyUqt9TxV4gegfdfKVntxh-s7RwYiYMg_7TzQ4rEWKriG8VEAq9HULjj2eYMqgGuv8mdzs_QvL7zsrWh8QiEn3l8Hf_rY9yhwo4nAhStnB5hjdDTdNEm3thJEbnEY_MTT2AnysrKVAdNUz65mPuDGJ7bzSv9A-GvFimHUItD_Nsa3IZ4JZNxwT9ZxCY_NfNk3h7so-982Zz9rxt-Js2JsHzoJcglp-ssVqsLzYoPnDg9HKpLxiH4ERIiEdGRBSqUJL5-PH1f1Y7eiJadl5gigpSIc4DNYP7BzNXvjxlcNmJkKiUpf1iKhMjxeSCOCEVlLUbdpbuJuZryhA==&uniplatform=NZKPT&language=CHS)[J]. _中国公路学报_, 2024. **（公路领域中文期刊TOP1）**
 2. **Qian Gao**, Chenglong Liu, Yishun Li, Yuchuan Du, Guanghua Yue, and Bing Liu. ["Mining co-occurrence patterns among deep road distresses using association rule analysis."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Journal of Transportation Engineering, Part B: Pavements_ 148, no. 1 (2022): 04021078.  **SCI, IF: 2.1, Q3**
 3. Qian Gao, Lei Fan, Siyu Wei, Yishun Li, Yuchuan Du, and Chenglong Liu. ["Differences evaluation of pavement roughness distribution based on light detection and ranging data."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Applied Sciences_ 13, no. 14 (2023): 8080.  **（SCI, IF: 2.7, Q1）**
@@ -71,13 +72,11 @@ redirect_from:
 11. Haobing Liu, Shuyang Zhang, Guojun Chen, and **Qian Gao**. ["Observed Characteristics and Modeled Emissions of Transit Buses on Ramps."](https://journals.sagepub.com/doi/abs/10.1177/03611981241248164) _Sustainability_ 12, no. 7 (2020): 2770.  **（SCI, IF: 3.6, Q2）**
 12. Yuchuan Du, Han Wang, **Qian Gao**, Ning Pan, Cong Zhao, and Chenglong Liu. ["Resilience concepts in integrated urban transport: a comprehensive review on multi-mode framework."](https://www.emerald.com/insight/content/doi/10.1108/SRT-06-2022-0013/full/html) _Smart and resilient transportation_ 4, no. 2 (2022): 105-133.
 
-
-# 📝 发明专利
-##  PCT国际专利
+## 📃 Patents
+###  PCT国际专利
 - 一种基于高频巡检数据的道路性能更新与分析方法. PCT/CN2023/096970.
 - 一种路面损伤匹配与连续跟踪方法. PCT/CN2023/096969.
-
-##  国家发明专利
+###  国家发明专利
 - 一种基于关联规则分析的道路深层病害预警方法. ZL202110215728.6.
 - 一种考虑碳排放的路网级全生命养护优化方法. ZL202210139768.1.
 - 一种基于超车行为特征的疲劳驾驶监测方法. ZL201810481127.8.
@@ -91,13 +90,12 @@ redirect_from:
 - 一种探地雷达数据异常区域自动识别方法. CN202410728557.0.
 - 一种基于变化检测的城市道路探地雷达规模普查方法. CN202410728441.7.
 
-
-# 📝 出版物
+## 📃 Book
 - 专著：《道路设施性能高频多维感知与数字化管理技术》. 2024.（排版中）
 
 
-# 🎖 奖项荣誉
-## 荣誉表彰
+# 🏆 Honors and Awards
+## 🏅 荣誉表彰
 - *2024.06*， 同济大学卓越研究生**导学团队标兵**
 - *2024.02*， 2023年度中国交通运输协会科技进步**一等奖**
 - *2023.10*， 同济大学**优秀博士生奖学金**
@@ -108,7 +106,7 @@ redirect_from:
 - *2016.09*， 武汉理工大学**国家励志奖学金**
 - *2016.09*， 武汉理工大学**校三好学生标兵**
 
-## 竞赛奖项
+## 🏅 竞赛奖项
 - *2024.06*， 高等院校发明选拔赛**金奖**
 - *2024.04*， 江苏大数据开发与应用大赛（SEED）**数据创新应用优秀成果**
 - *2023.12*， 江苏省“大运河杯”数据开发应用创新大赛**二等奖**
