@@ -73,10 +73,10 @@ redirect_from:
 12. Yuchuan Du, Han Wang, **Qian Gao**, Ning Pan, Cong Zhao, and Chenglong Liu. ["Resilience concepts in integrated urban transport: a comprehensive review on multi-mode framework."](https://www.emerald.com/insight/content/doi/10.1108/SRT-06-2022-0013/full/html) _Smart and resilient transportation_ 4, no. 2 (2022): 105-133.
 
 ## 📃 Patents
-### 国际PCT专利
+**国际PCT专利：**
 - 一种基于高频巡检数据的道路性能更新与分析方法. PCT/CN2023/096970.
 - 一种路面损伤匹配与连续跟踪方法. PCT/CN2023/096969.
-### 国家发明专利
+**国家发明专利：**
 - 一种基于关联规则分析的道路深层病害预警方法. ZL202110215728.6.
 - 一种考虑碳排放的路网级全生命养护优化方法. ZL202210139768.1.
 - 一种基于超车行为特征的疲劳驾驶监测方法. ZL201810481127.8.
