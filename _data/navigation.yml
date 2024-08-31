@@ -7,16 +7,10 @@ main:
     url: "/#-educations"
 
   - title: "项目经历"
-    url: "/#-项目经历"
+    url: "/#-projects"
 
-  - title: "论文发表"
-    url: "/#-论文发表"
-
-  - title: "发明专利"
-    url: "/#-发明专利"
-
-  - title: "出版物"
-    url: "/#-出版物"
+  - title: "科研成果"
+    url: "/#-publications"
 
   - title: "奖项荣誉"
-    url: "/#-奖项荣誉"
+    url: "/#-honors-and-awards"
