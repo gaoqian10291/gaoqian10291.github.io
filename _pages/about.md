@@ -20,9 +20,9 @@ redirect_from:
 
 高倩，1997年10月生，湖北人。2015.9-2019.6于武汉理工大学交通学院就读交通工程专业，排名1/65，2019年9月通过保送研究生至同济大学交通运输工程学院综合交通信息与控制工程系，直接攻读博士研究生，并于2023年10月受国家留学基金委资助前往加拿大多伦多大学联培。
 
-博士期间深耕道路交通基础设施数字化运维领域，针对“路面服役性能多维度解析”的科学问题以及“数据驱动的养护决策”的工程问题展开研究，至今本人已在《Automation in Construction》（JCR Engineering排名第一）、《IEEE Transactions on Intelligent Transportation Systems》（JCR Engineering排名第三）、《中国公路学报》（公路交通领域中文期刊TOP1）等领域内顶级期刊发表SCI论文12篇，申请国际专利PCT 2项，国家发明专利14项（授权3项）。
+博士期间深耕道路交通基础设施数字化运维领域，针对“路面服役性能多维度解析”的科学问题以及“数据驱动的养护决策”的工程问题展开研究，至今本人已在《Automation in Construction》（JCR Engineering排名第一）、《IEEE Transactions on Intelligent Transportation Systems》（JCR Engineering排名第三）、《中国公路学报》（公路交通领域中文期刊TOP1）等领域内顶级期刊发表SCI论文**12篇**，申请国际专利PCT**2项**，国家发明专利**14项（授权3项）**。
 
-作为学生负责人先后参与国家重点专项、面上项目、上海市科委研究等纵向项目，负责项目从申报、推进到结题全流程的材料撰写、对接汇报等工作，拥有丰富的项目组织与管理经验。在科学研究的同时，同样注重科研成果的落地应用，参与研发的路面多维高频检测与智能养护技术在全国10余省市超20万公里道路上推广使用，社会经济效益明显，获得中国交通运输协会科技进步一等奖、上海市公路学会科学技术二等奖。此外斩获众多创新大赛奖项，获中国国际“互联网+”大学生创新创业大赛全国银奖、高等院校发明选拔赛金奖、数字城市大赛雄安站智慧城市专题赛一等奖、中国研究生智慧城市技术与创意设计大赛二等奖等国家级奖项3项，省部级奖项3项。
+作为学生负责人先后参与国家重点专项、面上项目、上海市科委研究等纵向项目，负责项目从申报、推进到结题全流程的材料撰写、对接汇报等工作，拥有丰富的项目组织与管理经验。在科学研究的同时，同样注重科研成果的落地应用，参与研发的路面多维高频检测与智能养护技术在全国10余省市超20万公里道路上推广使用，社会经济效益明显，获得中国交通运输协会科技进步**一等奖**、上海市公路学会科学技术**二等奖**。此外斩获众多创新大赛奖项，获中国国际“互联网+”大学生创新创业大赛**全国银奖**、高等院校发明选拔赛**金奖**、数字城市大赛雄安站智慧城市专题赛**一等奖**、中国研究生智慧城市技术与创意设计大赛**二等奖等**国家级奖项**3项**，省部级奖项**3项**。
 
 **研究方向：道路基础设施数字化运维，路面性能高频多维时空分析，数据驱动的养护决策**
 
@@ -58,7 +58,7 @@ redirect_from:
 ## 📃 Papers
 1. **高倩**, 杜豫川, 刘成龙, 李亦舜, 吴荻非, 李峰. [城市路面性能分布空间异质性解析及差异化养护分区研究](https://kns.cnki.net/kcms2/article/abstract?v=8pq0kR8SZyUqt9TxV4gegfdfKVntxh-s7RwYiYMg_7TzQ4rEWKriG8VEAq9HULjj2eYMqgGuv8mdzs_QvL7zsrWh8QiEn3l8Hf_rY9yhwo4nAhStnB5hjdDTdNEm3thJEbnEY_MTT2AnysrKVAdNUz65mPuDGJ7bzSv9A-GvFimHUItD_Nsa3IZ4JZNxwT9ZxCY_NfNk3h7so-982Zz9rxt-Js2JsHzoJcglp-ssVqsLzYoPnDg9HKpLxiH4ERIiEdGRBSqUJL5-PH1f1Y7eiJadl5gigpSIc4DNYP7BzNXvjxlcNmJkKiUpf1iKhMjxeSCOCEVlLUbdpbuJuZryhA==&uniplatform=NZKPT&language=CHS)[J]. _中国公路学报_, 2024. **（公路领域中文期刊TOP1）**
 2. **Qian Gao**, Chenglong Liu, Yishun Li, Yuchuan Du, Guanghua Yue, and Bing Liu. ["Mining co-occurrence patterns among deep road distresses using association rule analysis."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Journal of Transportation Engineering, Part B: Pavements_ 148, no. 1 (2022): 04021078.  **SCI, IF: 2.1, Q3**
-3. Qian Gao, Lei Fan, Siyu Wei, Yishun Li, Yuchuan Du, and Chenglong Liu. ["Differences evaluation of pavement roughness distribution based on light detection and ranging data."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Applied Sciences_ 13, no. 14 (2023): 8080.  **（SCI, IF: 2.7, Q1）**
+3. **Qian Gao**, Lei Fan, Siyu Wei, Yishun Li, Yuchuan Du, and Chenglong Liu. ["Differences evaluation of pavement roughness distribution based on light detection and ranging data."](https://ascelibrary.org/doi/10.1061/JPEODX.0000328) _Applied Sciences_ 13, no. 14 (2023): 8080.  **（SCI, IF: 2.7, Q1）**
 4. **Qian Gao**, Xinhua Yu , Yuchuan Du, Chenglong Liu, Difei Wu, Yishun Li, Xiaoming Zhang. "Digital operation and maintenance system of highway infrastructure." _29th ITS World Congress_. (2023)  **（公路交通领域顶级国际会议）**
 5. **Qian Gao**, Shuyang Zhang, Guojun Chen, and Yuchuan Du. ["Two-way cooperative priority control of bus transit with stop capacity constraint."](https://www.mdpi.com/2071-1050/12/4/1405) _Sustainability_ 12, no. 4 (2020): 1405.  **（SCI, IF: 3.6, Q2）**
 6. Yishun Li, Chenglong Liu, **Qian Gao**, Difei Wu, Feng Li, and Yuchuan Du. ["ConTrack Distress Dataset: A Continuous Observation for Pavement Deterioration Spatio-Temporal Analysis."](https://ieeexplore.ieee.org/document/9899382) _IEEE Transactions on Intelligent Transportation Systems_ 23, no. 12 (2022): 25004-25017.  **（SCI, IF: 8.3, Q1）**
